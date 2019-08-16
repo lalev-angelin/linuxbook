@@ -2,7 +2,7 @@
 
 Уважаеми читатели, настоящото Git хранилище съдържа книгата "Въведение в Линукс". По-долу ще намерите връзка към том I, а когато е готов, също тук ще бъде публикуван и том II. Книгата може да се използва безплатно под условията на [CC-ND-BY 4.0](https://creativecommons.org/licenses/by-nd/4.0/) лиценза.
 
-[Том I](https://github.com/lalev-angelin/linuxbook/)
-[Том II)(https://github.com/lalev-angelin/linuxbook/)
+# [Том I](https://github.com/lalev-angelin/linuxbook/)
+# [Том II](https://github.com/lalev-angelin/linuxbook/)
 
 Чернови на двата тома, както и финалните версии могат да бъдат изтеглени алтернативно от следния [сайт](https://angelinlalev.blogspot.com)
